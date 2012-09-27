@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor foreColor="ffcccccc" name="PHP_VARIABLE"/>
+    <fontcolor foreColor="white" name="mod-method">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="uncovered" name="uncovered"/>
+    <fontcolor default="identifier" name="PHP_STRING"/>
+    <fontcolor bgColor="ff38566f" name="mark-occurrences"/>
+    <fontcolor default="field" name="mod-field"/>
+    <fontcolor foreColor="ffff9d00" name="heredocdelimiter"/>
+    <fontcolor foreColor="ffff9d02" name="phpopenclose">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="covered" name="covered"/>
+    <fontcolor foreColor="black" name="PHP_CONTENT"/>
+    <fontcolor default="constant" foreColor="ffff0044" name="constant">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor default="keyword" foreColor="ffff9d00" name="keyword">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="number" foreColor="ffff0044" name="number"/>
+    <fontcolor name="mod-static">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor default="partial" name="partial"/>
+    <fontcolor default="inferred" name="inferred"/>
+    <fontcolor default="operator" foreColor="ffff9d00" name="operator"/>
+    <fontcolor foreColor="black" name="T_INLINE_HTML"/>
+    <fontcolor name="mod-class">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor name="mod-unused" waveUnderlined="ff999999"/>
+    <fontcolor default="comment" foreColor="ff9999ff" name="htmltag">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="string" name="string"/>
+    <fontcolor name="mod-custom1">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="comment" name="comment"/>
+    <fontcolor default="comment" name="phpdockeyword">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="identifier" name="identifier"/>
+    <fontcolor default="separator" name="separator"/>
+</fontscolors>
